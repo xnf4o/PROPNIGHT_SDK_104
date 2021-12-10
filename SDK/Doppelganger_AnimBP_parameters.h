@@ -1,0 +1,244 @@
+﻿#pragma once
+
+// Name: P, Version: 1
+
+
+/*!!DEFINE!!*/
+
+/*!!HELPER_DEF!!*/
+
+/*!!HELPER_INC!!*/
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+//---------------------------------------------------------------------------
+// Parameters
+//---------------------------------------------------------------------------
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimGraph
+struct UDoppelganger_AnimBP_C_AnimGraph_Params
+{
+	struct FPoseLink                                   AnimGraph;                                                 // 0x0000(0x0010)  (Parm, OutParm, NoDestructor)
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.SpeedRate
+struct UDoppelganger_AnimBP_C_SpeedRate_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_569A91994207A9B065D77D80902ED359
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_569A91994207A9B065D77D80902ED359_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_A43E3DD04221D27711F86EAC9C6A3C70
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_A43E3DD04221D27711F86EAC9C6A3C70_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_BlendListByBool_A29B6EC84B2815B9B7B5F293D5EA2425
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_BlendListByBool_A29B6EC84B2815B9B7B5F293D5EA2425_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_BlendListByBool_6A1ED1B14029AFBF562D318A8DB814E7
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_BlendListByBool_6A1ED1B14029AFBF562D318A8DB814E7_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_3A8721374A8A767E3BE23B9F64126455
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_3A8721374A8A767E3BE23B9F64126455_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_1B1442F843356FFF9DBDB5806E373370
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_1B1442F843356FFF9DBDB5806E373370_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_F8F9D6E645C6C5010C5FCCA596FE8091
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_F8F9D6E645C6C5010C5FCCA596FE8091_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_C73BF9134C0E132F59DD26B582FA6BD6
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_C73BF9134C0E132F59DD26B582FA6BD6_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_9011775C47C133945D3772AA6B12E91D
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_9011775C47C133945D3772AA6B12E91D_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_C73011C24C75FB03A7F1969A19D5A761
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_C73011C24C75FB03A7F1969A19D5A761_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_3BD28C674A5F41E658E9D7AD4B435205
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_3BD28C674A5F41E658E9D7AD4B435205_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_42E3D7A64123A66135594C9C2427CD23
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_42E3D7A64123A66135594C9C2427CD23_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_5CD0379C42B9296050609BA690D3F6FA
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_5CD0379C42B9296050609BA690D3F6FA_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_80CF305A49565A24AC29EE9A32F8A9C4
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_80CF305A49565A24AC29EE9A32F8A9C4_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_C94007A84A2F243B48BCD4903884727E
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_C94007A84A2F243B48BCD4903884727E_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_E65AC498478E1406D0279D95F8672EB0
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_E65AC498478E1406D0279D95F8672EB0_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_76DBA84149E54E78DAD549863214878F
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_76DBA84149E54E78DAD549863214878F_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_25DA8E9043BD6518B8B2F78ADA3F0140
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_25DA8E9043BD6518B8B2F78ADA3F0140_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_40486D264D59265D175FF7AF26673E9B
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_40486D264D59265D175FF7AF26673E9B_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_C46B14A4458F2CF37AE9418D0C3061D6
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_C46B14A4458F2CF37AE9418D0C3061D6_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_795D23CB42ABB0D7C02EC19E7F66B9E5
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_795D23CB42ABB0D7C02EC19E7F66B9E5_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_1405674E408B5CA77B3B43BF2AE65541
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_1405674E408B5CA77B3B43BF2AE65541_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_32662F844B5C6997967B0997070BD8F1
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_32662F844B5C6997967B0997070BD8F1_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_878D7D0F47C02C77BCA9D3A55FD6C22D
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_878D7D0F47C02C77BCA9D3A55FD6C22D_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_5553A3654299E41436078E950E591BFE
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_5553A3654299E41436078E950E591BFE_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_232B3A1D4803035FD0B7BF9BFCA50F25
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_232B3A1D4803035FD0B7BF9BFCA50F25_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_20604CC247F20B9051A3779C4F48B8B9
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_20604CC247F20B9051A3779C4F48B8B9_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_2071DB864C27EF339539F0A210925DC7
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_2071DB864C27EF339539F0A210925DC7_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_FF28FF95426181CD5B224C94D7DE1229
+struct UDoppelganger_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Doppelganger_AnimBP_AnimGraphNode_TransitionResult_FF28FF95426181CD5B224C94D7DE1229_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.BlueprintUpdateAnimation
+struct UDoppelganger_AnimBP_C_BlueprintUpdateAnimation_Params
+{
+	float                                              DeltaTimeX;                                                // 0x0000(0x0004)  (BlueprintVisible, BlueprintReadOnly, Parm, ZeroConstructor, IsPlainOldData, NoDestructor, HasGetValueTypeHash)
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.BlueprintBeginPlay
+struct UDoppelganger_AnimBP_C_BlueprintBeginPlay_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimNotify_R_Leg
+struct UDoppelganger_AnimBP_C_AnimNotify_R_Leg_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimNotify_JumpEnd
+struct UDoppelganger_AnimBP_C_AnimNotify_JumpEnd_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimNotify_L_Leg
+struct UDoppelganger_AnimBP_C_AnimNotify_L_Leg_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimNotify_JumpStart
+struct UDoppelganger_AnimBP_C_AnimNotify_JumpStart_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimNotify_CloseLeg
+struct UDoppelganger_AnimBP_C_AnimNotify_CloseLeg_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimNotify_Close_Left
+struct UDoppelganger_AnimBP_C_AnimNotify_Close_Left_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimNotify_Close_right
+struct UDoppelganger_AnimBP_C_AnimNotify_Close_right_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.HardHit
+struct UDoppelganger_AnimBP_C_HardHit_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.AnimNotify_Close_Leg
+struct UDoppelganger_AnimBP_C_AnimNotify_Close_Leg_Params
+{
+};
+
+// Function Doppelganger_AnimBP.Doppelganger_AnimBP_C.ExecuteUbergraph_Doppelganger_AnimBP
+struct UDoppelganger_AnimBP_C_ExecuteUbergraph_Doppelganger_AnimBP_Params
+{
+	int                                                EntryPoint;                                                // 0x0000(0x0004)  (BlueprintVisible, BlueprintReadOnly, Parm, ZeroConstructor, IsPlainOldData, NoDestructor, HasGetValueTypeHash)
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
